@@ -1,2 +1,2 @@
-# Please help me solve the task
+# Please help me solve the linear regression project
 
